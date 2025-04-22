@@ -1,5 +1,10 @@
 # EGlove
-Espanola GloveWorks Code and Apps
+Espanola GloveWorks Designs, Codes, and Apps
+
+The designs are
+  - stl files for the finger pads, glove box, and box top
+  - pcb files for the printed circuit board
+  - patterns for the glove fabric
 
 The arduino code for the glove exists in two versions
   - static (vibration pattern follows original Tass paper)
