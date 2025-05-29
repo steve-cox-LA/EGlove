@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "885354901467",
+    "firebase_url": "https://accdataappali-default-rtdb.firebaseio.com",
+    "project_id": "accdataappali",
+    "storage_bucket": "accdataappali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885354901467:android:0ec52fff67ecff3932c1fe",
+        "android_client_info": {
+          "package_name": "com.example.gloveworks30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rdYxyKNeiZKTyZRolYGsiIOlsIpQMeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
