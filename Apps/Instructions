@@ -1,3 +1,6 @@
-The two aia files are for use in MIT App Inventor.
-gaitMonitor    works on its own, from the user's pocket
-GloveServer    is designed to be used with GloveClient.ino    from the the ArduinoCode folder, running on the glove.
+The two aia files are for use and/or modification in MIT App Inventor.
+
+  gaitMonitor.aia    works on its own, from the user's pocket
+  GloveServer.aia    is designed to be used with GloveClient.ino    from the the ArduinoCode folder, running on the glove.
+
+GloverServer.apk can be installed directly onto your Android phone.
