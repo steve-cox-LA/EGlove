@@ -13,7 +13,7 @@ android {
         minSdk = 21
         targetSdk = 34
         versionCode = 1
-        versionName = "1.0"
+        versionName = "1.0.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -36,6 +36,7 @@ android {
 
     buildFeatures {
         compose = true
+        //buildConfig = true
     }
 
     composeOptions {
@@ -49,6 +50,15 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.7.2")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
     implementation("androidx.datastore:datastore-preferences:1.0.0")
+    implementation("androidx.compose.animation:animation:1.5.4") // or your Compose version
+
+    implementation("com.google.android.material:material:1.11.0")
+
+
+    implementation("androidx.core:core-splashscreen:1.0.1")
+
+
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
 
 
 
@@ -58,7 +68,7 @@ dependencies {
     implementation("androidx.compose.ui:ui:1.5.4")
     implementation("androidx.compose.ui:ui-tooling-preview:1.5.4")
     implementation("androidx.compose.foundation:foundation:1.5.4")
-    implementation("androidx.compose.material3:material3:1.1.2")
+    implementation("androidx.compose.material3:material3:1.2.1")
     debugImplementation("androidx.compose.ui:ui-tooling:1.5.4")
 
     // Navigation
@@ -71,8 +81,9 @@ dependencies {
     implementation("com.github.wendykierp:JTransforms:3.1")
 
     // Firebase
-    implementation(platform("com.google.firebase:firebase-bom:32.7.3"))
+    implementation(platform("com.google.firebase:firebase-bom:33.16.0"))
     implementation("com.google.firebase:firebase-database-ktx")
+    implementation("com.google.firebase:firebase-storage-ktx")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
