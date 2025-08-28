@@ -1,6 +1,12 @@
 The two aia files are for use and/or modification in MIT App Inventor.
 
-  gaitMonitor.aia    works on its own, from the user's pocket
-  GloveServer.aia    is designed to be used with GloveClient.ino    from the the ArduinoCode folder, running on the glove.
+  gaitMonitor.aia    works on its own, processing acceleromtere data, from the user's pocket. 
+  It scores the gait as the total variation of the fundamental frequency over 10 2-second epochs.
+
+  GloveServer.aia    is designed to be used with GloveClient.ino    from the the ArduinoCode folder, 
+  running on the glove. It permits the user to change the 3 key glove parameters:
+  1) Motor Amplitude,
+  2) Pattern Duration, and
+  3) Burst Duration
 
 GloverServer.apk can be installed directly onto your Android phone.
