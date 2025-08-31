@@ -10,3 +10,9 @@ The two aia files are for use and/or modification in MIT App Inventor.
   3) Burst Duration
 
 GloverServer.apk can be installed directly onto your Android phone.
+
+The Evoice.zip file contains the full Android Studio Project for recording voice and scoring 
+jitter (the variation in pitch) and 
+shimmer (the variation in amplitude)
+
+Evoice.apk can be installed directly onto your Android phone.
