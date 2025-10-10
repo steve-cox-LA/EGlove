@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "403392904985",
+    "firebase_url": "https://gloveworksapptest-default-rtdb.firebaseio.com",
+    "project_id": "gloveworksapptest",
+    "storage_bucket": "gloveworksapptest.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403392904985:android:68c6be69dbd97bec3c4f88",
+        "android_client_info": {
+          "package_name": "com.example.gloveworks30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5U5pckDmz4FGaLnUlfPN1-NGf01TmuUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
