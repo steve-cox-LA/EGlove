@@ -1,4 +1,4 @@
-Our Printed Circuit Board Design is publicliy avaiable at this link.
+Our Printed Circuit Board Design is publicly available at this link.
 https://oshwlab.com/stevenjcox/glovesjcmos_copy_copy
 
 To order parts and your own PCB please
