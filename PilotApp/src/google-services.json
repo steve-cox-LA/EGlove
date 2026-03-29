@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "335242060794",
+    "firebase_url": "https://gaitmon-default-rtdb.firebaseio.com",
+    "project_id": "gaitmon",
+    "storage_bucket": "gaitmon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335242060794:android:87635c861c249d0f447a43",
+        "android_client_info": {
+          "package_name": "com.example.gloveworks30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbNGP0jHxmmoi-FnqTBRWBA-p-4HGp8Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
