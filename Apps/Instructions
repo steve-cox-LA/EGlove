@@ -1,6 +1,6 @@
 The two aia files are for use and/or modification in MIT App Inventor.
 
-  gaitMonitor.aia    works on its own, processing acceleromtere data, from the user's pocket. 
+  gaitMonitor.aia    works on its own, processing accelerometer data, from the user's pocket. 
   It scores the gait as the total variation of the fundamental frequency over 10 2-second epochs.
 
   GloveServer.aia    is designed to be used with GloveClient.ino    from the the ArduinoCode folder, 
