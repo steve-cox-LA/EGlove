@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App Theme (used after splash screen) -->
+    <style name="Theme.GloveWorks30" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorSecondary</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+    </style>
+
+    <!-- Splash Screen Theme (applied by Android 12+) -->
+    <style name="Theme.GloveWorks30.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowSplashScreenBackground" tools:targetApi="31">@android:color/transparent</item>
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="31">@null</item>
+        <item name="windowSplashScreenAnimationDuration" tools:targetApi="31">0</item>
+
+        <!-- No title bar or action bar -->
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowFullscreen">true</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.GloveWorks30</item>
+    </style>
+
+</resources>

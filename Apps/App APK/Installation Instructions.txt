@@ -1,0 +1,6 @@
+Android Phone APK Installation Instructions:
+1. Navigate to https://github.com/steve-cox-LA/EGlove/tree/main/Apps/App%20APK
+2. Find and Download "GloveWorksApp.apk" by clicking on the file and then click the "..." menu button
+3. Approve the download of the .apk if prompted by Android
+4. Locate the .apk file on your file explorer
+5. Open the .apk and approve the installation

@@ -1,0 +1,13 @@
+Android Studios Installation Instructions:
+1. Open https://github.com/steve-cox-LA/EGlove/tree/main/Apps
+2. Find and Download GloveWorksAppNNE.zip
+3. Extract GloveWorksAppNNE.zip file onto your computer
+4. Open Android Studio
+5. On Android Studio, navigate to "File" -> "Open..." and find GLoveWorksAppNNE folder
+6. After Android Studio has finished importing Gradle files, navigate to "File" -> "Sync Project With Gradle Files"
+
+Android Phone APK Installation Instructions:
+1. Navigate to https://github.com/steve-cox-LA/EGlove/tree/main/Apps
+2. Find and Download "GloveWorksApp.apk"
+3. Locate the .apk file on your file explorer
+4. Open the .apk and approve the installation

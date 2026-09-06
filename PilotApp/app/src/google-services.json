@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "399210566591",
+    "firebase_url": "https://gloveworks-pilot-default-rtdb.firebaseio.com",
+    "project_id": "gloveworks-pilot",
+    "storage_bucket": "gloveworks-pilot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399210566591:android:5f1ff928e8583e0c9e470a",
+        "android_client_info": {
+          "package_name": "com.example.gloveworkspilot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG1sUeQfbIG7j93hNklQugBmZ5LrVW6lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
